@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+rigctld -m 135 -s 38400 -r /dev/ttyUSB0  -t4534
