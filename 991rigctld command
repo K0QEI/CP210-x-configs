@@ -1,6 +1,6 @@
 #!/bin/bash
 
 
-rigctld -m 135 -s 38400 -r /dev/ttyUSB0  -t4534
+rigctld -m 135 -s 38400 -r /dev/ttyUSB0  -t4534 &
 sleep 5
 rigctld -m2 -r127.0.0.1:4534 -t14534
