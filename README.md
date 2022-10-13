@@ -7,5 +7,7 @@ To force a USB Port to be accessible by a port number usuable by CQRLOG.  The po
 settings for cqrlog will be as follows
 
 Rig Model: 135  
+
 Devbice: 127.0.0.1:453x reason,  your told rigctld to use 453x 
+
 Port Number: 1453x reason, this number may vary as to how many radios you have connected to your comptuer typical is 4532 for radio 1, 4533 for radio 2 and so on,  i use 4534 since i have 3 radios hooked up to my comptuer.  you dont need to do serial speed since the rigctld command has a speed in that line.
