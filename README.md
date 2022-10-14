@@ -1,4 +1,4 @@
-# ft991-and-A-varient
+Config write up
 using rigcrtld and cqrlog
 this is changable to any radio using the cp210(x) ports
 
