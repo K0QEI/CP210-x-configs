@@ -1,0 +1,1 @@
+SUBSYSTEM=="tty", ATTRS{idVendor}=="x", ATTRS{idProduct}=="y", ATTRS{serial}=="z", ENV{ID_USB_INTERFACE_NUM}=="0?", SYMLINK+="symlik"
